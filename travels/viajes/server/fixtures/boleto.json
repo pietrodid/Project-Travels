@@ -1,0 +1,30 @@
+    [
+      {
+        "model": "restapi.boleto",
+        "pk": 4,
+        "fields": {
+          "trayecto": 6,
+          "fecha_de_compra": "2020-11-04",
+          "usuario": 5
+        }
+      },
+      {
+        "model": "restapi.boleto",
+        "pk": 5,
+        "fields": {
+          "trayecto": 14,
+          "fecha_de_compra": "2020-11-22",
+          "usuario": 6
+        }
+      },
+      {
+        "model": "restapi.boleto",
+        "pk": 6,
+        "fields": {
+          "trayecto": 5,
+          "fecha_de_compra": "2020-11-14",
+          "usuario": 4
+      }
+      }
+    ]
+    

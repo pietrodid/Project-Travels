@@ -1,0 +1,35 @@
+[
+  {
+    "model": "restapi.trayecto",
+    "pk": 4,
+    "fields": {
+      "fecha": "2020-11-23 02:00:00",
+      "origen": 4,
+      "destino": 6,
+      "bus": 4,
+      "precio": 10500
+    }
+  },
+  {
+    "model": "restapi.trayecto",
+    "pk": 5,
+    "fields": {
+      "fecha": "2020-11-08 12:00:00",
+      "origen": 6,
+      "destino": 5,
+      "bus": 6,
+      "precio": 13000
+    }
+  },
+  {
+    "model": "restapi.trayecto",
+    "pk": 6,
+    "fields": {
+      "fecha": "2020-11-21 01:00:00",
+      "origen": 4,
+      "destino": 5,
+      "bus": 4,
+      "precio": 20000
+    }
+  }
+]

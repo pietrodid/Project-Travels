@@ -1,0 +1,34 @@
+
+
+      [
+      {
+        "model": "restapi.terminal",
+        "pk": 4,
+        "fields": {
+          "direccion": "Terminal San Borja local 1217",
+          "comuna": "Estación Central",
+          "ciudad": "Santiago",
+          "pais": "Chile"
+        }
+      },
+      {
+        "model": "restapi.terminal",
+        "pk": 5,
+        "fields": {
+          "direccion": "Terminal San Martín 3345",
+          "comuna": "Camarones",
+          "ciudad": "Arica",
+          "pais": "Chile"
+        }
+      },
+      {
+        "model": "restapi.terminal",
+        "pk": 6,
+        "fields": {
+          "direccion": "Terminal Camilo Henriquez 2565",
+          "comuna": "Chiguayante",
+          "ciudad": "Concepción",
+          "pais": "Chile"
+        }
+      }
+    ]

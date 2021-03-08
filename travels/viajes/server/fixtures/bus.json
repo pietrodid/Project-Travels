@@ -1,0 +1,31 @@
+
+    [
+      {
+          "model": "restapi.bus",
+          "pk": 4,
+          "fields": {
+            "patente": "HGWX47",
+            "chofer": 5,
+            "capacidad_maxima": 10
+      }
+    },
+    {
+          "model": "restapi.bus",
+          "pk": 5,
+          "fields": {
+            "patente": "WRDT22",
+            "chofer": 4,
+            "capacidad_maxima": 10
+        }
+      },
+      {   
+          "model": "restapi.bus",
+          "pk": 6,
+          "fields": {
+            "patente": "POKD45",  
+            "chofer": 6,
+            "capacidad_maxima": 10 
+        }
+      }
+    ]
+    

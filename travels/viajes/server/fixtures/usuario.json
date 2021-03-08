@@ -1,0 +1,29 @@
+[
+  {
+    "model": "restapi.Usuario",
+    "pk": 4,
+    "fields": {
+      "nombre": "John",
+      "apellido": "Lennon",
+      "identidad": "5742327"
+    }
+  },
+  {
+    "model": "restapi.usuario",
+    "pk": 5,
+    "fields": {
+      "nombre": "Paul",
+      "apellido": "McCartney",
+      "identidad": "12354678"
+    }
+  },
+  {
+    "model": "restapi.usuario",
+    "pk": 6,
+    "fields": {
+      "nombre": "Carlos",
+      "apellido": "Slim",
+      "identidad": "6789098"
+    }
+  }
+]
